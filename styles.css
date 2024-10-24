@@ -2,6 +2,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     grid-row: 1fr 2fr 1fr;
+    text-align: center;
+    list-style-position: inside;
+    background-color: rgb(211, 248, 208);
 }
 
 
@@ -12,7 +15,9 @@ body {
     padding: 3em;
     padding-top: 2em;
     margin-top: 2em;
+    background-color: rgb(217, 233, 216);
 }
+
 h1 {
     text-align: center;
 }
